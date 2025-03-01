@@ -57,5 +57,5 @@ Feel free to submit issues or pull requests. Ensure your code follows Laravel be
 This project is licensed under the Appache.
 
 ## Contact
-For support or inquiries, reach out to **[your-email@example.com]**.
+For support or inquiries, reach out to **[email.vijaysivadas@gmail.com]**.
 
